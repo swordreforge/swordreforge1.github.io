@@ -100,6 +100,7 @@ service-worker: true
 friends: [
     {
     title:"感谢星球国际语提供技术支持!!!"
+    href:"https://swordreforge.github.io/"
     },
     {
         title: "星球国际语",
