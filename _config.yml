@@ -98,9 +98,9 @@ service-worker: true
 
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
-  {
-  title："感谢星球国际语提供技术支持！！！"
-  }
+    {
+    title:"感谢星球国际语提供技术支持!!!"
+    },
     {
         title: "星球国际语",
         href: "https://globien.gitee.io"
