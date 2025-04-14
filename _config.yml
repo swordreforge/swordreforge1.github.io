@@ -111,5 +111,8 @@ friends: [
     },{
         title: "知乎：人造国际语",
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+    },{
+        title: "TGCTF友链MilKTeA",
+        href: "www.cnblogs.com/Mi1kTe4"
     }
 ]
