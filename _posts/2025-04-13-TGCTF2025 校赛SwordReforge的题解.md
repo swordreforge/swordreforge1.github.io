@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      TGCTF2025 校赛SwordReforge的题解
+subtitle:   First to join in competition
+date:       2025-04-14
+author:     sword Reforge
+header-img: img/post-bg-coffee.jpg
+catalog: 	  true
+tags:
+    - 比赛
+---
 # TGCTF2025 校赛SwordReforge的题解
 
 > conclusion:I'am fw,with learning one month.
