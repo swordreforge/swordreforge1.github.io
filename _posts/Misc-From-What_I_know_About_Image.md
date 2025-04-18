@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Misc_image
+subtitle:   A power that one command converys
+date:       2025-04-15
+author:     sword Reforge
+header-img: img/post-bg-coffee.jpg
+catalog: 	  true
+tags:
+
+   - 知识
+---
 ### Misc-From-What_I_know_About_Image
 
 #### Orint
