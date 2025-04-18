@@ -32,7 +32,7 @@ commly linked in two image,or have password to decode,take it easy to use it by 
 
 #### steg stegrophy
 
-use steg to solve it
+use steghide to solve it,if there are any unkown password then use stegseek in linux to crack weak pass
 
 
 
